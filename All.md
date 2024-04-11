@@ -83,5 +83,7 @@ urlpatterns = [
     path('',home.as_view(), name ='home'),
 ] 
 ```
+## Inside app models.py
+
  
 
